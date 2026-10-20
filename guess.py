@@ -9,7 +9,7 @@ if choice == "1":
 elif choice == "2":
     max_number = 100
 else:
-    max_number = 10000
+    max_number = 1000
 
 
 border = max_number // 10
